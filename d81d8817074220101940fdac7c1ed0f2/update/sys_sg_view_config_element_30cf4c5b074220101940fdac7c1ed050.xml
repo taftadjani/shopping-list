@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>store_name-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 16:55:27</sys_created_on>
+        <sys_id>30cf4c5b074220101940fdac7c1ed050</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>store_name-FieldValue</sys_name>
+        <sys_package display_value="Shopping List" source="x_574872_shopping">d81d8817074220101940fdac7c1ed0f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">d81d8817074220101940fdac7c1ed0f2</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_30cf4c5b074220101940fdac7c1ed050</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 16:55:27</sys_updated_on>
+        <view_config display_value="Store Detail Screen View Config">74cf4c5b074220101940fdac7c1ed04f</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

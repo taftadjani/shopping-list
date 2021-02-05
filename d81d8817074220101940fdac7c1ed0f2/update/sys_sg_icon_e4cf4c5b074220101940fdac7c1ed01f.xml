@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home Shopping List</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 16:55:27</sys_created_on>
+        <sys_id>e4cf4c5b074220101940fdac7c1ed01f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Shopping List</sys_name>
+        <sys_package display_value="Shopping List" source="x_574872_shopping">d81d8817074220101940fdac7c1ed0f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">d81d8817074220101940fdac7c1ed0f2</sys_scope>
+        <sys_update_name>sys_sg_icon_e4cf4c5b074220101940fdac7c1ed01f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 16:55:27</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>
